@@ -1,0 +1,9 @@
+{
+  "name": "NEXUS Creative",
+  "description": "סטודיו ליצירה מתקדמת באמצעות AI - תמונות, וידאו, קוד וסאונד.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
